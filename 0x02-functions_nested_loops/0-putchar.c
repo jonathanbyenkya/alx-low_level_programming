@@ -1,10 +1,10 @@
 #include "main.h"
-
 /**
- * main - Entry point
- * Description: prints _putchar
- * Return: Always 0 (success)
- */
+* main - print _putchar 
+* Description: prints _putchar
+* Return: Always 0 
+*/
+
 int main(void)
 {
 _putchar('_');
