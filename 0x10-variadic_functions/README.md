@@ -1,0 +1,1 @@
+Variadic funtions in c.
